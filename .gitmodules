@@ -13,7 +13,7 @@
 	ignore = dirty
 [submodule "external/gheap"]
 	path = external/gheap
-	url = https://github.com/valyala/gheap
+	url = https://github.com/valyala/gheap.git
 [submodule "external/lnprototest"]
 	path = external/lnprototest
 	url = https://github.com/M0hitkumar/lnprototest.git
