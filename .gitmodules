@@ -20,3 +20,6 @@
 [submodule "external/libsodium"]
 	path = external/libsodium
 	url = https://github.com/jedisct1/libsodium.git
+[submodule "external/jsmn"]
+	path = external/jsmn
+	url = https://github.com/abhishekMishra87/jsmn.git
