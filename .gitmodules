@@ -17,3 +17,6 @@
 [submodule "external/lnprototest"]
 	path = external/lnprototest
 	url = https://github.com/M0hitkumar/lnprototest.git
+[submodule "external/libsodium"]
+	path = external/libsodium
+	url = https://github.com/jedisct1/libsodium.git
